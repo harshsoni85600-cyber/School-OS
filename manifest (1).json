@@ -1,0 +1,13 @@
+{
+  "background_color": "#0920a0",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SchoolOS",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SchoolOS",
+  "start_url": "/",
+  "theme_color": "#ab09ff",
+  "description": "A modern school management and education platform.",
+  "id": "https://harshsoni85600-cyber.github.io/School-OS/"
+}
